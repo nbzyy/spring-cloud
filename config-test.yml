@@ -1,0 +1,3 @@
+#TEST
+server:
+  port: 3344
