@@ -1,2 +1,6 @@
 config:
+<<<<<<< HEAD
   info: dev branch,springcloud-config/config-dev.yml version=1
+=======
+  info: dev branch,springcloud-config/config-dev.yml version=1
+>>>>>>> 00b536be385c05d0c4f7777572ec6305ae233651
