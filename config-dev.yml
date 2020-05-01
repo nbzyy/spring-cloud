@@ -1,3 +1,2 @@
-#DEV
-server:
-  port: 3344
+config：
+   info: "master branch,springcloud-config/config-dev.yml version=1"
